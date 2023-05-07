@@ -119,8 +119,11 @@ p, a {
     margin-bottom: 4%;
 }
 
-
-
+.header .nav{
+    display: flex;    
+    width: 80%;
+    
+}
 
 header {
     width: 100%;

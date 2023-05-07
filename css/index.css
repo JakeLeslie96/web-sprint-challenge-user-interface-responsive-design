@@ -109,6 +109,12 @@ p, a {
     max-width: 90%;
     
 }
+.header .nav{
+    display: flex;    
+    width: 80%;
+    
+}
+
 
 .header a{
     width: 25%;
